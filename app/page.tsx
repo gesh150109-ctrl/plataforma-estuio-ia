@@ -97,7 +97,7 @@ export default function Home() {
       {/* ENCABEZADO */}
       <header className="text-center mb-12">
         <h1 className="text-4xl font-bold mb-3">
-          Hola Gabriel, ¿por dónde comenzamos?
+          Hola, ¿por dónde comenzamos?
         </h1>
         <p className="text-gray-300">
           Tu centro personal de estudio inteligente
